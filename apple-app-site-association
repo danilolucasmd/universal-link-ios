@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HTG68XLT44.br.com.nutror.app",
+        "paths": [
+          "/*/localized/wildcard/route/*",
+          "/wildcard/route/*",
+          "/*/localized/route",
+          "/static/route"
+        ]
+      }
+    ]
+  }
+}
